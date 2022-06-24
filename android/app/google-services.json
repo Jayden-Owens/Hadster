@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "840070652712",
+    "project_id": "hadster-7c1f1",
+    "storage_bucket": "hadster-7c1f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840070652712:android:2902cbde46eaf4f43e661d",
+        "android_client_info": {
+          "package_name": "com.hadster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840070652712-n30iqa411vhmep382iefvfffdaijs7i8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hadster",
+            "certificate_hash": "2019e67367f512a18c8a3be5f147c651ae3e7d8a"
+          }
+        },
+        {
+          "client_id": "840070652712-rgo9k1qp6d6u447ccth887fv43r5hn05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hadster",
+            "certificate_hash": "36528c4cab715cfae0ae5761decc0ef97be477c2"
+          }
+        },
+        {
+          "client_id": "840070652712-off2mo8ggtaugm71ikonj2eaq6pec192.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9uySs-aN7gSf1qYOpkvcm0gsUxXxSoVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840070652712-off2mo8ggtaugm71ikonj2eaq6pec192.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hadster.iml" filepath="$PROJECT_DIR$/.idea/modules/hadster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/hadster.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/hadster.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-18744741/hadster.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-18744741/hadster.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1859520321/hadster.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-1859520321/hadster.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1737487498/hadster.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/1737487498/hadster.react-native-firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1197055351/hadster.react-native-firebase_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/-1197055351/hadster.react-native-firebase_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1313568793/hadster.react-native-firebase_storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1313568793/hadster.react-native-firebase_storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2114079492/hadster.react-native-geolocation-service.iml" filepath="$PROJECT_DIR$/.idea/modules/2114079492/hadster.react-native-geolocation-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1806494428/hadster.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1806494428/hadster.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2053747319/hadster.react-native-google-signin_google-signin.iml" filepath="$PROJECT_DIR$/.idea/modules/2053747319/hadster.react-native-google-signin_google-signin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-212279894/hadster.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-212279894/hadster.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/847236506/hadster.react-native-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/847236506/hadster.react-native-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-110599671/hadster.react-native-picker_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-110599671/hadster.react-native-picker_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/530462548/hadster.react-native-push-notification.iml" filepath="$PROJECT_DIR$/.idea/modules/530462548/hadster.react-native-push-notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2110826048/hadster.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-2110826048/hadster.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1525726277/hadster.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1525726277/hadster.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-336019811/hadster.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-336019811/hadster.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-45669336/hadster.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/-45669336/hadster.react-native-splash-screen.iml" />
+    </modules>
+  </component>
+</project>
